@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 @Controller
-public class MyController {
+public class SayHelloController {
 
 //    // without response body
 //    @GetMapping("/without-body")
